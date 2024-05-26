@@ -1,0 +1,40 @@
+.block {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+  &_container-setTimout {
+      display: flex;
+      flex-direction: column;
+    }
+  &_container-request {
+    display: flex;
+    flex-direction: column;
+  }
+}
+.box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  transition: 0.5 all;
+}
+.wrapper {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border: 3px solid red;
+}
+button {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 150px;
+  height: 60px;
+  background-color: yellow;
+  border: none;
+}
+.animate {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  min-height: 500px;
+}
