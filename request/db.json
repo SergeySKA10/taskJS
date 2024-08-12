@@ -1,0 +1,44 @@
+{
+    "people": [
+        {
+            "name": "Alex",
+            "surname": "Wayne",
+            "sex": "male",
+            "age": 30,
+            "photo": "https://radiovera.ru/wp-content/uploads/2018/03/Andrey-Tarasov_.jpg",
+            "id": "2b22"
+        },
+        {
+            "name": "Angela",
+            "surname": "Whinston",
+            "sex": "female",
+            "age": 31,
+            "photo": "https://cdnstatic.rg.ru/crop980x654/uploads/images/177/18/63/1000s.jpg",
+            "id": "79d8"
+        },
+        {
+            "name": "Alex",
+            "surname": "Solberry",
+            "sex": "male",
+            "age": 35,
+            "photo": "https://photoplay.ru/sites/default/files/styles/r-1-1-mobile/public/gallery_images/bez_nazvaniya_2.jpg?itok=neZUWJ7E",
+            "id": "5fab"
+        },
+        {
+            "name": "Anna",
+            "surname": "Rayan",
+            "sex": "female",
+            "age": 23,
+            "photo": "https://zviazda.by/sites/default/files/field/image/28-8_kopiya_9.jpg",
+            "id": "4a9f"
+        },
+        {
+            "name": "Michael",
+            "surname": "Dobkin",
+            "sex": "male",
+            "age": 30,
+            "photo": "https://thumbs.dreamstime.com/b/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BB%D1%8E%D0%B4%D0%B8-%D1%81%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-17503464.jpg",
+            "id": "76cb"
+        }
+    ]
+}

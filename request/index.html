@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Request</title>
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+    <body>
+        <div class="people">
+            <button class="get">Loading people...</button>
+        </div>
+        <div class="form">
+            <form>
+                <input name="name" type="text" placeholder="Имя пользователя" />
+                <input
+                    name="surname"
+                    type="text"
+                    placeholder="Фамилия пользователя"
+                />
+                <input name="sex" type="text" placeholder="male/female" />
+                <input name="age" type="text" placeholder="Возраст" />
+                <input name="photo" type="text" placeholder="Ссылка на фото" />
+                <button class="post">Submit</button>
+            </form>
+        </div>
+
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="js/axios.js"></script>
+    </body>
+</html>
